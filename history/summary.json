@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2054,
-    "timeDay": 2054,
-    "timeWeek": 2054,
-    "timeMonth": 2054,
-    "timeYear": 2054,
+    "time": 1821,
+    "timeDay": 1821,
+    "timeWeek": 1821,
+    "timeMonth": 1821,
+    "timeYear": 1821,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6239,
-    "timeDay": 6239,
-    "timeWeek": 6239,
-    "timeMonth": 6239,
-    "timeYear": 6239,
+    "time": 4475,
+    "timeDay": 4475,
+    "timeWeek": 4475,
+    "timeMonth": 4475,
+    "timeYear": 4475,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,51 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 966,
-    "timeDay": 966,
-    "timeWeek": 966,
-    "timeMonth": 966,
-    "timeYear": 966,
+    "time": 1152,
+    "timeDay": 1152,
+    "timeWeek": 1152,
+    "timeMonth": 1152,
+    "timeYear": 1152,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Karier",
+    "url": "https://karier.goodside.id",
+    "icon": "https://favicons.githubusercontent.com/karier.goodside.id",
+    "slug": "karier",
+    "status": "down",
+    "uptime": "7.36%",
+    "uptimeDay": "7.36%",
+    "uptimeWeek": "7.36%",
+    "uptimeMonth": "7.36%",
+    "uptimeYear": "7.36%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-12-17": 0
+    }
+  },
+  {
+    "name": "Media Partner",
+    "url": "https://partner.goodside.id/media",
+    "icon": "https://favicons.githubusercontent.com/partner.goodside.id",
+    "slug": "media-partner",
+    "status": "down",
+    "uptime": "17.63%",
+    "uptimeDay": "17.63%",
+    "uptimeWeek": "17.63%",
+    "uptimeMonth": "17.63%",
+    "uptimeYear": "17.63%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-12-17": 0
+    }
   }
 ]
