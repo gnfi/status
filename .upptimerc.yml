@@ -21,7 +21,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /uptime
-  logoUrl: https://github.com/gnfi/uptime/blob/3d65474f452419e58172daf0745f2907e7c5471c/assets/favicon-rounded-edited.png
+  logoUrl: https://raw.githubusercontent.com/gnfi/uptime/master/assets/favicon-rounded-edited.png
   name: Uptime
   introTitle: "**Uptime** adalah laman monitor status produk-produk GNFI."
   introMessage: Di laman ini kamu bisa mengecek status produk-produk GNFI, apakah bisa diakses atau kah tidak. Bila tidak bisa diakses, informasi terbaru akan segera mungkin ditampilkan di sini.
