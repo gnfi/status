@@ -11,21 +11,25 @@ sites:
     url: https://www.rekamindonesia.id
   - name: GoodSite
     url: https://goodside.id
+  - name: Karier
+    url: https://karier.goodside.id
+  - name: Media Partner
+    url: https://partner.goodside.id/media
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://github.com/gnfi/uptime/blob/3d65474f452419e58172daf0745f2907e7c5471c/assets/favicon-rounded-edited.png
   name: Uptime
-  introTitle: "**Uptime** adalah laman monitor dan status produk-produk GNFI."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Uptime** adalah laman monitor status produk-produk GNFI."
+  introMessage: Di laman ini kamu bisa mengecek status produk-produk GNFI, apakah bisa diakses atau kah tidak. Bila tidak bisa diakses, informasi terbaru akan segera mungkin ditampilkan di sini.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    #- title: GitHub
+    #  href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
