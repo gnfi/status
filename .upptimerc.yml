@@ -19,8 +19,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /uptime
+  cname: uptime.goodnews.id
+  # baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/gnfi/uptime/master/assets/favicon-rounded-edited.png
   name: Uptime
   introTitle: "**Uptime** adalah laman monitor status produk-produk GNFI."
