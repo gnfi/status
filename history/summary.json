@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 588,
-    "timeDay": 588,
-    "timeWeek": 588,
-    "timeMonth": 588,
-    "timeYear": 588,
+    "time": 599,
+    "timeDay": 599,
+    "timeWeek": 599,
+    "timeMonth": 599,
+    "timeYear": 599,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1821,
-    "timeDay": 1821,
-    "timeWeek": 1821,
-    "timeMonth": 1821,
-    "timeYear": 1821,
+    "time": 1905,
+    "timeDay": 1905,
+    "timeWeek": 1905,
+    "timeMonth": 1905,
+    "timeYear": 1905,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4475,
-    "timeDay": 4475,
-    "timeWeek": 4475,
-    "timeMonth": 4475,
-    "timeYear": 4475,
+    "time": 4185,
+    "timeDay": 4185,
+    "timeWeek": 4185,
+    "timeMonth": 4185,
+    "timeYear": 4185,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1152,
-    "timeDay": 1152,
-    "timeWeek": 1152,
-    "timeMonth": 1152,
-    "timeYear": 1152,
+    "time": 1090,
+    "timeDay": 1090,
+    "timeWeek": 1090,
+    "timeMonth": 1090,
+    "timeYear": 1090,
     "dailyMinutesDown": {}
   },
   {
@@ -77,18 +77,18 @@
     "icon": "https://favicons.githubusercontent.com/karier.goodside.id",
     "slug": "karier",
     "status": "down",
-    "uptime": "4.29%",
-    "uptimeDay": "4.29%",
-    "uptimeWeek": "4.29%",
-    "uptimeMonth": "4.29%",
-    "uptimeYear": "4.29%",
+    "uptime": "0.15%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.15%",
+    "uptimeMonth": "0.15%",
+    "uptimeYear": "0.15%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-17": 0
+      "2021-12-17": 9
     }
   },
   {
@@ -97,18 +97,18 @@
     "icon": "https://favicons.githubusercontent.com/partner.goodside.id",
     "slug": "media-partner",
     "status": "down",
-    "uptime": "7.54%",
-    "uptimeDay": "7.54%",
-    "uptimeWeek": "7.54%",
-    "uptimeMonth": "7.54%",
-    "uptimeYear": "7.54%",
+    "uptime": "0.19%",
+    "uptimeDay": "0.19%",
+    "uptimeWeek": "0.19%",
+    "uptimeMonth": "0.19%",
+    "uptimeYear": "0.19%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-17": 0
+      "2021-12-17": 9
     }
   }
 ]
