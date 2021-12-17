@@ -12,9 +12,9 @@ sites:
   - name: GoodSite
     url: https://goodside.id
   - name: Karier
-    url: https://karier.goodside.id
+    url: https://karier.goodnews.id/
   - name: Media Partner
-    url: https://partner.goodside.id/media
+    url: https://partner.goodnews.id/media
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
