@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 687,
-    "timeDay": 1527,
-    "timeWeek": 754,
-    "timeMonth": 687,
-    "timeYear": 687,
+    "time": 683,
+    "timeDay": 550,
+    "timeWeek": 742,
+    "timeMonth": 683,
+    "timeYear": 683,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 1769,
-    "timeDay": 1934,
-    "timeWeek": 1727,
-    "timeMonth": 1769,
-    "timeYear": 1769,
+    "time": 1765,
+    "timeDay": 1620,
+    "timeWeek": 1732,
+    "timeMonth": 1765,
+    "timeYear": 1765,
     "dailyMinutesDown": {
       "2021-12-30": 10
     }
@@ -43,16 +43,16 @@
     "icon": "https://favicons.githubusercontent.com/www.rekamindonesia.id",
     "slug": "rekam-indonesia",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 3290,
-    "timeDay": 3408,
-    "timeWeek": 2958,
-    "timeMonth": 3290,
-    "timeYear": 3290,
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 3281,
+    "timeDay": 2970,
+    "timeWeek": 2977,
+    "timeMonth": 3281,
+    "timeYear": 3281,
     "dailyMinutesDown": {
       "2021-12-23": 9
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 773,
-    "timeDay": 873,
-    "timeWeek": 776,
-    "timeMonth": 773,
-    "timeYear": 773,
+    "time": 766,
+    "timeDay": 683,
+    "timeWeek": 765,
+    "timeMonth": 766,
+    "timeYear": 766,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 536,
-    "timeDay": 491,
-    "timeWeek": 535,
-    "timeMonth": 536,
-    "timeYear": 536,
+    "time": 529,
+    "timeDay": 334,
+    "timeWeek": 538,
+    "timeMonth": 529,
+    "timeYear": 529,
     "dailyMinutesDown": {
       "2021-12-17": 11
     }
@@ -106,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 536,
-    "timeDay": 472,
-    "timeWeek": 405,
-    "timeMonth": 536,
-    "timeYear": 536,
+    "time": 531,
+    "timeDay": 377,
+    "timeWeek": 404,
+    "timeMonth": 531,
+    "timeYear": 531,
     "dailyMinutesDown": {
       "2021-12-17": 11
     }
