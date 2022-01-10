@@ -4,10 +4,10 @@
     "url": "https://www.goodnewsfromindonesia.id",
     "icon": "https://favicons.githubusercontent.com/www.goodnewsfromindonesia.id",
     "slug": "good-news-from-indonesia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 683,
@@ -15,7 +15,9 @@
     "timeWeek": 742,
     "timeMonth": 683,
     "timeYear": 683,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-10": 1
+    }
   },
   {
     "name": "Seasia",
@@ -42,9 +44,9 @@
     "url": "https://www.rekamindonesia.id",
     "icon": "https://favicons.githubusercontent.com/www.rekamindonesia.id",
     "slug": "rekam-indonesia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
@@ -54,6 +56,7 @@
     "timeMonth": 3281,
     "timeYear": 3281,
     "dailyMinutesDown": {
+      "2022-01-10": 0,
       "2021-12-23": 9
     }
   },
