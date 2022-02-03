@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 660,
-    "timeDay": 659,
-    "timeWeek": 583,
-    "timeMonth": 654,
-    "timeYear": 660,
+    "time": 671,
+    "timeDay": 1263,
+    "timeWeek": 679,
+    "timeMonth": 673,
+    "timeYear": 671,
     "dailyMinutesDown": {
       "2022-01-10": 22
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/seasia.co",
     "slug": "seasia",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 1778,
-    "timeDay": 2123,
-    "timeWeek": 1766,
-    "timeMonth": 1776,
-    "timeYear": 1778,
+    "uptimeYear": "99.99%",
+    "time": 1776,
+    "timeDay": 1646,
+    "timeWeek": 1770,
+    "timeMonth": 1778,
+    "timeYear": 1776,
     "dailyMinutesDown": {
       "2021-12-30": 10
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 3285,
-    "timeDay": 3039,
-    "timeWeek": 3293,
-    "timeMonth": 3208,
-    "timeYear": 3285,
+    "time": 3280,
+    "timeDay": 2968,
+    "timeWeek": 3354,
+    "timeMonth": 3213,
+    "timeYear": 3280,
     "dailyMinutesDown": {
       "2022-01-10": 21,
       "2021-12-23": 9
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 831,
-    "timeDay": 836,
-    "timeWeek": 934,
+    "time": 828,
+    "timeDay": 746,
+    "timeWeek": 926,
     "timeMonth": 840,
-    "timeYear": 831,
+    "timeYear": 828,
     "dailyMinutesDown": {
       "2022-01-24": 5
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 509,
-    "timeDay": 338,
+    "time": 505,
+    "timeDay": 325,
     "timeWeek": 427,
     "timeMonth": 489,
-    "timeYear": 509,
+    "timeYear": 505,
     "dailyMinutesDown": {
       "2021-12-17": 11
     }
@@ -111,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 545,
-    "timeDay": 389,
-    "timeWeek": 381,
+    "time": 542,
+    "timeDay": 364,
+    "timeWeek": 379,
     "timeMonth": 521,
-    "timeYear": 545,
+    "timeYear": 542,
     "dailyMinutesDown": {
       "2021-12-17": 11
     }
