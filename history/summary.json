@@ -8,12 +8,12 @@
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 685,
     "timeDay": 559,
     "timeWeek": 802,
-    "timeMonth": 686,
+    "timeMonth": 687,
     "timeYear": 685,
     "dailyMinutesDown": {
       "2022-01-10": 22
@@ -44,18 +44,19 @@
     "url": "https://www.rekamindonesia.id",
     "icon": "https://favicons.githubusercontent.com/www.rekamindonesia.id",
     "slug": "rekam-indonesia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 3285,
     "timeDay": 2544,
     "timeWeek": 3327,
-    "timeMonth": 3289,
+    "timeMonth": 3302,
     "timeYear": 3285,
     "dailyMinutesDown": {
+      "2022-02-10": 0,
       "2022-01-10": 21,
       "2021-12-23": 9
     }
