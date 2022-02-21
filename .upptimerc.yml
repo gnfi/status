@@ -11,10 +11,14 @@ sites:
     url: https://www.rekamindonesia.id
   - name: GoodSide
     url: https://goodside.id
+  - name: GoodStats
+    url: https://goodstats.id
   - name: Karier
     url: https://karier.goodnews.id/
   - name: Media Partner
     url: https://partner.goodnews.id/media
+  - name: Sertifikat Download
+    url: https://sertifikat.download
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
