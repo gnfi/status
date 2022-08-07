@@ -42,15 +42,15 @@
     "url": "https://seasia.co",
     "icon": "https://favicons.githubusercontent.com/seasia.co",
     "slug": "seasia",
-    "status": "up",
-    "uptime": "99.46%",
-    "uptimeDay": "90.63%",
-    "uptimeWeek": "96.42%",
-    "uptimeMonth": "95.84%",
-    "uptimeYear": "99.46%",
+    "status": "down",
+    "uptime": "99.47%",
+    "uptimeDay": "90.61%",
+    "uptimeWeek": "96.68%",
+    "uptimeMonth": "95.90%",
+    "uptimeYear": "99.47%",
     "time": 2521,
     "timeDay": 3967,
-    "timeWeek": 3469,
+    "timeWeek": 3530,
     "timeMonth": 3550,
     "timeYear": 2521,
     "dailyMinutesDown": {
@@ -70,7 +70,7 @@
       "2022-07-22": 64,
       "2022-07-21": 86,
       "2022-07-20": 165,
-      "2022-07-19": 81
+      "2022-07-19": 55
     }
   },
   {
