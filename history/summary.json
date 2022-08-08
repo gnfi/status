@@ -42,11 +42,11 @@
     "url": "https://seasia.co",
     "icon": "https://favicons.githubusercontent.com/seasia.co",
     "slug": "seasia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "82.23%",
+    "uptimeDay": "82.21%",
     "uptimeWeek": "94.12%",
-    "uptimeMonth": "95.69%",
+    "uptimeMonth": "95.72%",
     "uptimeYear": "99.44%",
     "time": 2541,
     "timeDay": 3140,
@@ -70,7 +70,7 @@
       "2022-07-23": 80,
       "2022-07-22": 64,
       "2022-07-21": 86,
-      "2022-07-20": 25
+      "2022-07-20": 13
     }
   },
   {
@@ -79,11 +79,11 @@
     "icon": "https://favicons.githubusercontent.com/www.rekamindonesia.id",
     "slug": "rekam-indonesia",
     "status": "up",
-    "uptime": "97.31%",
+    "uptime": "97.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.03%",
-    "uptimeYear": "97.31%",
+    "uptimeYear": "97.32%",
     "time": 3676,
     "timeDay": 3764,
     "timeWeek": 3252,
