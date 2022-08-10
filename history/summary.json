@@ -42,11 +42,11 @@
     "url": "https://seasia.co",
     "icon": "https://favicons.githubusercontent.com/seasia.co",
     "slug": "seasia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "90.48%",
+    "uptimeDay": "92.94%",
     "uptimeWeek": "92.22%",
-    "uptimeMonth": "95.50%",
+    "uptimeMonth": "95.51%",
     "uptimeYear": "99.42%",
     "time": 2611,
     "timeDay": 5239,
@@ -69,8 +69,7 @@
       "2022-07-26": 79,
       "2022-07-25": 71,
       "2022-07-24": 324,
-      "2022-07-23": 80,
-      "2022-07-22": 6
+      "2022-07-23": 80
     }
   },
   {
