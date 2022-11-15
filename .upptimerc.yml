@@ -9,12 +9,10 @@ sites:
     url: https://seasia.co
   - name: Rekam Indonesia
     url: https://www.rekamindonesia.id
-  - name: GoodSide
-    url: https://goodside.id
   - name: GoodStats
     url: https://goodstats.id
-  - name: Karier
-    url: https://karier.goodnews.id/
+  - name: Career
+    url: https://career.goodnews.id
   - name: Media Partner
     url: https://partner.goodnews.id/media
   - name: Sertifikat Download
