@@ -145,12 +145,12 @@
     "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.17%",
+    "uptimeMonth": "99.32%",
     "uptimeYear": "99.45%",
     "time": 2268,
     "timeDay": 1888,
     "timeWeek": 1660,
-    "timeMonth": 3200,
+    "timeMonth": 3240,
     "timeYear": 2268,
     "dailyMinutesDown": {
       "2022-11-10": 47,
@@ -192,18 +192,20 @@
     "url": "https://career.goodnews.id",
     "icon": "https://icons.duckduckgo.com/ip3/career.goodnews.id.ico",
     "slug": "career",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 871,
-    "timeDay": 965,
-    "timeWeek": 926,
-    "timeMonth": 871,
-    "timeYear": 871,
-    "dailyMinutesDown": {}
+    "time": 874,
+    "timeDay": 937,
+    "timeWeek": 924,
+    "timeMonth": 874,
+    "timeYear": 874,
+    "dailyMinutesDown": {
+      "2022-11-30": 0
+    }
   },
   {
     "name": "Media Partner",
