@@ -52,11 +52,11 @@
     "url": "https://seasia.co",
     "icon": "https://icons.duckduckgo.com/ip3/seasia.co.ico",
     "slug": "seasia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.25%",
     "time": 2482,
     "timeDay": 1271,
@@ -64,6 +64,7 @@
     "timeMonth": 1654,
     "timeYear": 2545,
     "dailyMinutesDown": {
+      "2023-01-25": 3,
       "2022-12-11": 178,
       "2022-12-10": 1328,
       "2022-10-11": 481,
@@ -83,7 +84,7 @@
       "2022-07-31": 40,
       "2022-07-30": 28,
       "2022-07-29": 71,
-      "2022-07-28": 216
+      "2022-07-28": 211
     }
   },
   {
@@ -91,11 +92,11 @@
     "url": "https://www.rekamindonesia.id",
     "icon": "https://icons.duckduckgo.com/ip3/www.rekamindonesia.id.ico",
     "slug": "rekam-indonesia",
-    "status": "up",
+    "status": "down",
     "uptime": "95.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.73%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "98.72%",
     "uptimeYear": "95.48%",
     "time": 3796,
     "timeDay": 2715,
@@ -103,6 +104,7 @@
     "timeMonth": 3356,
     "timeYear": 3864,
     "dailyMinutesDown": {
+      "2023-01-25": 3,
       "2023-01-14": 2,
       "2023-01-11": 340,
       "2023-01-10": 203,
@@ -153,18 +155,19 @@
     "url": "https://goodstats.id",
     "icon": "https://icons.duckduckgo.com/ip3/goodstats.id.ico",
     "slug": "good-stats",
-    "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.55%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.54%",
+    "uptimeYear": "99.55%",
     "time": 2151,
     "timeDay": 1251,
     "timeWeek": 1390,
     "timeMonth": 1428,
     "timeYear": 2151,
     "dailyMinutesDown": {
+      "2023-01-25": 1,
       "2022-11-10": 47,
       "2022-11-09": 66,
       "2022-11-08": 25,
@@ -252,9 +255,9 @@
     "url": "https://sertifikat.download",
     "icon": "https://icons.duckduckgo.com/ip3/sertifikat.download.ico",
     "slug": "sertifikat-download",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -263,6 +266,8 @@
     "timeWeek": 1236,
     "timeMonth": 1244,
     "timeYear": 1191,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   }
 ]
