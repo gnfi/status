@@ -1,7 +1,7 @@
 url: https://goodstats.id
-status: up
-code: 200
-responseTime: 2612
-lastUpdated: 2023-02-07T23:22:05.367Z
+status: down
+code: 500
+responseTime: 3623
+lastUpdated: 2023-02-08T02:08:40.192Z
 startTime: Mon Feb 21 2022 06:19:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
