@@ -54,7 +54,7 @@
     "timeDay": 1298,
     "timeWeek": 1662,
     "timeMonth": 1647,
-    "timeYear": 2486,
+    "timeYear": 2487,
     "dailyMinutesDown": {
       "2023-06-10": 206,
       "2023-06-09": 848,
@@ -92,7 +92,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.rekamindonesia.id.ico",
     "slug": "rekam-indonesia",
     "status": "up",
-    "uptime": "95.65%",
+    "uptime": "95.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.70%",
@@ -157,18 +157,19 @@
     "url": "https://goodstats.id",
     "icon": "https://icons.duckduckgo.com/ip3/goodstats.id.ico",
     "slug": "good-stats",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "98.83%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "98.82%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.56%",
-    "time": 2430,
-    "timeDay": 1664,
+    "time": 2432,
+    "timeDay": 1356,
     "timeWeek": 3527,
     "timeMonth": 2249,
-    "timeYear": 2694,
+    "timeYear": 2696,
     "dailyMinutesDown": {
+      "2023-07-01": 0,
       "2023-06-30": 21,
       "2023-06-29": 52,
       "2023-06-26": 9,
@@ -216,8 +217,7 @@
       "2022-10-02": 169,
       "2022-10-01": 162,
       "2022-09-28": 19,
-      "2022-09-24": 2,
-      "2022-09-23": 2
+      "2022-09-24": 2
     }
   },
   {
