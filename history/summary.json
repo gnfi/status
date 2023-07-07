@@ -93,7 +93,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.rekamindonesia.id.ico",
     "slug": "rekam-indonesia",
     "status": "up",
-    "uptime": "95.70%",
+    "uptime": "95.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.70%",
@@ -158,13 +158,13 @@
     "url": "https://goodstats.id",
     "icon": "https://icons.duckduckgo.com/ip3/goodstats.id.ico",
     "slug": "good-stats",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.52%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "99.59%",
-    "time": 2437,
+    "time": 2439,
     "timeDay": 1903,
     "timeWeek": 1711,
     "timeMonth": 2232,
@@ -217,8 +217,7 @@
       "2022-10-05": 35,
       "2022-10-04": 27,
       "2022-10-03": 19,
-      "2022-10-02": 169,
-      "2022-10-01": 31
+      "2022-10-02": 169
     }
   },
   {
