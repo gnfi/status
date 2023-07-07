@@ -158,18 +158,19 @@
     "url": "https://goodstats.id",
     "icon": "https://icons.duckduckgo.com/ip3/goodstats.id.ico",
     "slug": "good-stats",
-    "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.67%",
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.87%",
     "uptimeMonth": "99.55%",
-    "uptimeYear": "99.57%",
-    "time": 2432,
+    "uptimeYear": "99.59%",
+    "time": 2434,
     "timeDay": 1868,
-    "timeWeek": 1688,
+    "timeWeek": 1660,
     "timeMonth": 2243,
     "timeYear": 2650,
     "dailyMinutesDown": {
+      "2023-07-07": 0,
       "2023-07-06": 4,
       "2023-07-01": 9,
       "2023-06-30": 21,
@@ -217,7 +218,7 @@
       "2022-10-04": 27,
       "2022-10-03": 19,
       "2022-10-02": 169,
-      "2022-10-01": 162
+      "2022-10-01": 43
     }
   },
   {
