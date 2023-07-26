@@ -40,19 +40,19 @@
     "url": "https://seasia.co",
     "icon": "https://icons.duckduckgo.com/ip3/seasia.co.ico",
     "slug": "seasia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
     "uptimeMonth": "99.23%",
     "uptimeYear": "98.92%",
-    "time": 2391,
+    "time": 2392,
     "timeDay": 629,
     "timeWeek": 709,
     "timeMonth": 915,
     "timeYear": 2182,
     "dailyMinutesDown": {
-      "2023-07-26": 14,
+      "2023-07-26": 15,
       "2023-07-04": 270,
       "2023-07-03": 53,
       "2023-06-10": 206,
@@ -81,8 +81,7 @@
       "2022-08-01": 79,
       "2022-07-31": 40,
       "2022-07-30": 28,
-      "2022-07-29": 71,
-      "2022-07-28": 15
+      "2022-07-29": 71
     }
   },
   {
