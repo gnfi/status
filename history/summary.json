@@ -50,7 +50,7 @@
     "timeDay": 604,
     "timeWeek": 729,
     "timeMonth": 933,
-    "timeYear": 2222,
+    "timeYear": 2207,
     "dailyMinutesDown": {
       "2023-07-04": 270,
       "2023-07-03": 53,
@@ -159,12 +159,12 @@
     "uptime": "99.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.29%",
+    "uptimeMonth": "97.30%",
     "uptimeYear": "99.42%",
     "time": 2445,
     "timeDay": 1528,
     "timeWeek": 1476,
-    "timeMonth": 1899,
+    "timeMonth": 1779,
     "timeYear": 2638,
     "dailyMinutesDown": {
       "2023-07-14": 37,
@@ -267,9 +267,9 @@
     "url": "https://sertifikat.download",
     "icon": "https://icons.duckduckgo.com/ip3/sertifikat.download.ico",
     "slug": "sertifikat-download",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -279,6 +279,7 @@
     "timeMonth": 1250,
     "timeYear": 1226,
     "dailyMinutesDown": {
+      "2023-07-26": 0,
       "2023-01-25": 10
     }
   }
