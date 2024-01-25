@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.goodnewsfromindonesia.id.ico",
     "slug": "good-news-from-indonesia",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1211,
-    "timeDay": 13003,
-    "timeWeek": 3142,
-    "timeMonth": 2299,
+    "time": 1212,
+    "timeDay": 1314,
+    "timeWeek": 3059,
+    "timeMonth": 2300,
     "timeYear": 1287,
     "dailyMinutesDown": {
       "2023-12-20": 10,
@@ -40,11 +40,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.54%",
-    "time": 1255,
-    "timeDay": 506,
-    "timeWeek": 566,
-    "timeMonth": 652,
-    "timeYear": 1135,
+    "time": 1253,
+    "timeDay": 493,
+    "timeWeek": 560,
+    "timeMonth": 648,
+    "timeYear": 1133,
     "dailyMinutesDown": {
       "2023-11-15": 226,
       "2023-08-21": 217,
@@ -57,8 +57,7 @@
       "2023-04-14": 19,
       "2023-04-10": 323,
       "2023-04-09": 83,
-      "2023-02-08": 132,
-      "2023-01-25": 14
+      "2023-02-08": 132
     }
   },
   {
@@ -67,16 +66,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.rekamindonesia.id.ico",
     "slug": "rekam-indonesia",
     "status": "up",
-    "uptime": "94.72%",
+    "uptime": "94.73%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "80.57%",
+    "uptimeWeek": "80.67%",
     "uptimeMonth": "95.52%",
     "uptimeYear": "93.43%",
-    "time": 3637,
-    "timeDay": 2816,
-    "timeWeek": 2793,
-    "timeMonth": 3183,
-    "timeYear": 3517,
+    "time": 3638,
+    "timeDay": 2959,
+    "timeWeek": 2901,
+    "timeMonth": 3175,
+    "timeYear": 3518,
     "dailyMinutesDown": {
       "2024-01-22": 308,
       "2024-01-21": 1440,
@@ -132,8 +131,7 @@
       "2023-03-10": 203,
       "2023-02-12": 153,
       "2023-02-11": 1440,
-      "2023-02-10": 201,
-      "2023-01-25": 24
+      "2023-02-10": 201
     }
   },
   {
@@ -147,11 +145,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.51%",
-    "time": 2367,
-    "timeDay": 1557,
-    "timeWeek": 1546,
-    "timeMonth": 1591,
-    "timeYear": 2179,
+    "time": 2366,
+    "timeDay": 1541,
+    "timeWeek": 1558,
+    "timeMonth": 1588,
+    "timeYear": 2180,
     "dailyMinutesDown": {
       "2023-11-09": 28,
       "2023-07-14": 37,
@@ -188,8 +186,7 @@
       "2023-02-11": 342,
       "2023-02-10": 38,
       "2023-02-08": 113,
-      "2023-02-07": 96,
-      "2023-01-25": 11
+      "2023-02-07": 96
     }
   },
   {
@@ -204,9 +201,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 843,
-    "timeDay": 1116,
-    "timeWeek": 963,
-    "timeMonth": 1008,
+    "timeDay": 815,
+    "timeWeek": 951,
+    "timeMonth": 999,
     "timeYear": 841,
     "dailyMinutesDown": {}
   },
@@ -222,9 +219,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 573,
-    "timeDay": 1115,
-    "timeWeek": 846,
-    "timeMonth": 843,
+    "timeDay": 549,
+    "timeWeek": 777,
+    "timeMonth": 820,
     "timeYear": 608,
     "dailyMinutesDown": {
       "2023-09-22": 4
@@ -241,15 +238,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1244,
-    "timeDay": 1175,
-    "timeWeek": 1164,
-    "timeMonth": 1292,
+    "time": 1243,
+    "timeDay": 1236,
+    "timeWeek": 1213,
+    "timeMonth": 1279,
     "timeYear": 1252,
     "dailyMinutesDown": {
       "2023-09-22": 4,
-      "2023-07-26": 4,
-      "2023-01-25": 10
+      "2023-07-26": 4
     }
   }
 ]
