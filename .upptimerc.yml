@@ -11,6 +11,8 @@ sites:
     url: https://www.rekamindonesia.id
   - name: GoodStats
     url: https://goodstats.id
+  - name: GoodStats Data
+    url: https://data.goodstats.id
   - name: Career
     url: https://career.goodnews.id
   - name: Media Partner
