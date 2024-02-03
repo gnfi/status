@@ -66,7 +66,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.rekamindonesia.id.ico",
     "slug": "rekam-indonesia",
     "status": "up",
-    "uptime": "94.79%",
+    "uptime": "94.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.53%",
@@ -212,9 +212,9 @@
     "url": "https://career.goodnews.id",
     "icon": "https://icons.duckduckgo.com/ip3/career.goodnews.id.ico",
     "slug": "career",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -223,7 +223,9 @@
     "timeWeek": 939,
     "timeMonth": 980,
     "timeYear": 841,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-03": 0
+    }
   },
   {
     "name": "Media Partner",
