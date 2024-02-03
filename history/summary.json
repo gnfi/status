@@ -212,19 +212,19 @@
     "url": "https://career.goodnews.id",
     "icon": "https://icons.duckduckgo.com/ip3/career.goodnews.id.ico",
     "slug": "career",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 846,
-    "timeDay": 762,
-    "timeWeek": 939,
-    "timeMonth": 980,
+    "timeDay": 899,
+    "timeWeek": 950,
+    "timeMonth": 981,
     "timeYear": 841,
     "dailyMinutesDown": {
-      "2024-02-03": 0
+      "2024-02-03": 10
     }
   },
   {
