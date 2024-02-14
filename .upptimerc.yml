@@ -19,6 +19,8 @@ sites:
     url: https://partner.goodnews.id/media
   - name: Sertifikat Download
     url: https://sertifikat.download
+  - name: Nawala App
+    url: https://nawala.app
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
