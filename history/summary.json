@@ -261,7 +261,7 @@
     "url": "https://nawala.app",
     "icon": "https://icons.duckduckgo.com/ip3/nawala.app.ico",
     "slug": "nawala-app",
-    "status": "up",
+    "status": "down",
     "uptime": "71.75%",
     "uptimeDay": "71.75%",
     "uptimeWeek": "71.75%",
@@ -273,7 +273,7 @@
     "timeMonth": 8182,
     "timeYear": 8182,
     "dailyMinutesDown": {
-      "2024-02-14": 261
+      "2024-02-14": 262
     }
   },
   {
@@ -281,19 +281,19 @@
     "url": "https://blog.goodnewsfromindonesia.id",
     "icon": "https://icons.duckduckgo.com/ip3/blog.goodnewsfromindonesia.id.ico",
     "slug": "blog",
-    "status": "down",
-    "uptime": "69.82%",
-    "uptimeDay": "69.82%",
-    "uptimeWeek": "69.82%",
-    "uptimeMonth": "69.82%",
-    "uptimeYear": "69.82%",
-    "time": 6686,
-    "timeDay": 6686,
-    "timeWeek": 6686,
-    "timeMonth": 6686,
-    "timeYear": 6686,
+    "status": "up",
+    "uptime": "69.64%",
+    "uptimeDay": "69.64%",
+    "uptimeWeek": "69.64%",
+    "uptimeMonth": "69.64%",
+    "uptimeYear": "69.64%",
+    "time": 6397,
+    "timeDay": 6397,
+    "timeWeek": 6397,
+    "timeMonth": 6397,
+    "timeYear": 6397,
     "dailyMinutesDown": {
-      "2024-02-14": 276
+      "2024-02-14": 279
     }
   }
 ]
