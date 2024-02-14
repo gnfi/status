@@ -279,17 +279,19 @@
     "url": "https://blog.goodnewsfromindonesia.id",
     "icon": "https://icons.duckduckgo.com/ip3/blog.goodnewsfromindonesia.id.ico",
     "slug": "blog",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.62%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
     "time": 870,
     "timeDay": 870,
     "timeWeek": 870,
     "timeMonth": 870,
     "timeYear": 870,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-14": 0
+    }
   }
 ]
