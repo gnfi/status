@@ -266,27 +266,26 @@
     "url": "https://nawala.app",
     "icon": "https://icons.duckduckgo.com/ip3/nawala.app.ico",
     "slug": "nawala-app",
-    "status": "up",
-    "uptime": "82.89%",
-    "uptimeDay": "80.51%",
-    "uptimeWeek": "81.39%",
-    "uptimeMonth": "82.89%",
-    "uptimeYear": "82.89%",
+    "status": "down",
+    "uptime": "83.30%",
+    "uptimeDay": "81.76%",
+    "uptimeWeek": "81.71%",
+    "uptimeMonth": "83.30%",
+    "uptimeYear": "83.30%",
     "time": 4619,
-    "timeDay": 3560,
-    "timeWeek": 4059,
+    "timeDay": 3492,
+    "timeWeek": 4097,
     "timeMonth": 4619,
     "timeYear": 4619,
     "dailyMinutesDown": {
-      "2024-02-22": 194,
+      "2024-02-22": 195,
       "2024-02-21": 320,
       "2024-02-20": 210,
       "2024-02-19": 279,
       "2024-02-18": 221,
       "2024-02-17": 259,
       "2024-02-16": 321,
-      "2024-02-15": 235,
-      "2024-02-14": 35
+      "2024-02-15": 235
     }
   },
   {
@@ -294,15 +293,15 @@
     "url": "https://blog.goodnewsfromindonesia.id",
     "icon": "https://icons.duckduckgo.com/ip3/blog.goodnewsfromindonesia.id.ico",
     "slug": "blog",
-    "status": "up",
-    "uptime": "82.26%",
-    "uptimeDay": "82.40%",
-    "uptimeWeek": "80.48%",
-    "uptimeMonth": "82.26%",
-    "uptimeYear": "82.26%",
+    "status": "down",
+    "uptime": "82.44%",
+    "uptimeDay": "84.13%",
+    "uptimeWeek": "80.80%",
+    "uptimeMonth": "82.44%",
+    "uptimeYear": "82.44%",
     "time": 3264,
-    "timeDay": 1841,
-    "timeWeek": 2514,
+    "timeDay": 1910,
+    "timeWeek": 2530,
     "timeMonth": 3264,
     "timeYear": 3264,
     "dailyMinutesDown": {
@@ -314,7 +313,7 @@
       "2024-02-17": 267,
       "2024-02-16": 313,
       "2024-02-15": 238,
-      "2024-02-14": 34
+      "2024-02-14": 29
     }
   }
 ]
