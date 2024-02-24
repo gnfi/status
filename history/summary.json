@@ -64,7 +64,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.rekamindonesia.id.ico",
     "slug": "rekam-indonesia",
     "status": "up",
-    "uptime": "94.93%",
+    "uptime": "94.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -267,19 +267,19 @@
     "url": "https://nawala.app",
     "icon": "https://icons.duckduckgo.com/ip3/nawala.app.ico",
     "slug": "nawala-app",
-    "status": "up",
-    "uptime": "86.58%",
-    "uptimeDay": "86.68%",
-    "uptimeWeek": "82.94%",
-    "uptimeMonth": "86.58%",
-    "uptimeYear": "86.58%",
+    "status": "down",
+    "uptime": "86.76%",
+    "uptimeDay": "86.63%",
+    "uptimeWeek": "83.14%",
+    "uptimeMonth": "86.76%",
+    "uptimeYear": "86.76%",
     "time": 4213,
     "timeDay": 2336,
-    "timeWeek": 4431,
+    "timeWeek": 4466,
     "timeMonth": 4213,
     "timeYear": 4213,
     "dailyMinutesDown": {
-      "2024-02-24": 188,
+      "2024-02-24": 189,
       "2024-02-23": 191,
       "2024-02-22": 264,
       "2024-02-21": 320,
@@ -287,7 +287,7 @@
       "2024-02-19": 279,
       "2024-02-18": 221,
       "2024-02-17": 259,
-      "2024-02-16": 105
+      "2024-02-16": 91
     }
   },
   {
@@ -295,15 +295,15 @@
     "url": "https://blog.goodnewsfromindonesia.id",
     "icon": "https://icons.duckduckgo.com/ip3/blog.goodnewsfromindonesia.id.ico",
     "slug": "blog",
-    "status": "up",
-    "uptime": "85.93%",
-    "uptimeDay": "85.84%",
-    "uptimeWeek": "82.31%",
-    "uptimeMonth": "85.93%",
-    "uptimeYear": "85.93%",
+    "status": "down",
+    "uptime": "86.08%",
+    "uptimeDay": "86.28%",
+    "uptimeWeek": "82.50%",
+    "uptimeMonth": "86.08%",
+    "uptimeYear": "86.08%",
     "time": 3297,
     "timeDay": 4879,
-    "timeWeek": 3083,
+    "timeWeek": 3108,
     "timeMonth": 3297,
     "timeYear": 3297,
     "dailyMinutesDown": {
@@ -315,7 +315,7 @@
       "2024-02-19": 292,
       "2024-02-18": 265,
       "2024-02-17": 267,
-      "2024-02-16": 134
+      "2024-02-16": 126
     }
   }
 ]
