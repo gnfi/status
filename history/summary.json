@@ -137,7 +137,7 @@
     "status": "up",
     "uptime": "99.67%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.06%",
+    "uptimeWeek": "96.96%",
     "uptimeMonth": "98.99%",
     "uptimeYear": "99.58%",
     "time": 2086,
@@ -187,7 +187,7 @@
     "status": "up",
     "uptime": "98.70%",
     "uptimeDay": "99.58%",
-    "uptimeWeek": "96.00%",
+    "uptimeWeek": "96.90%",
     "uptimeMonth": "98.70%",
     "uptimeYear": "98.70%",
     "time": 1386,
@@ -267,19 +267,19 @@
     "url": "https://nawala.app",
     "icon": "https://icons.duckduckgo.com/ip3/nawala.app.ico",
     "slug": "nawala-app",
-    "status": "up",
-    "uptime": "86.83%",
-    "uptimeDay": "83.71%",
-    "uptimeWeek": "82.90%",
-    "uptimeMonth": "86.83%",
-    "uptimeYear": "86.83%",
+    "status": "down",
+    "uptime": "87.06%",
+    "uptimeDay": "84.49%",
+    "uptimeWeek": "83.06%",
+    "uptimeMonth": "87.06%",
+    "uptimeYear": "87.06%",
     "time": 4267,
-    "timeDay": 3982,
-    "timeWeek": 4628,
+    "timeDay": 4342,
+    "timeWeek": 4676,
     "timeMonth": 4267,
     "timeYear": 4267,
     "dailyMinutesDown": {
-      "2024-02-25": 22,
+      "2024-02-25": 23,
       "2024-02-24": 216,
       "2024-02-23": 191,
       "2024-02-22": 264,
@@ -288,7 +288,7 @@
       "2024-02-19": 279,
       "2024-02-18": 221,
       "2024-02-17": 259,
-      "2024-02-16": 66
+      "2024-02-16": 41
     }
   },
   {
@@ -296,15 +296,15 @@
     "url": "https://blog.goodnewsfromindonesia.id",
     "icon": "https://icons.duckduckgo.com/ip3/blog.goodnewsfromindonesia.id.ico",
     "slug": "blog",
-    "status": "up",
-    "uptime": "86.07%",
-    "uptimeDay": "83.99%",
-    "uptimeWeek": "82.30%",
-    "uptimeMonth": "86.07%",
-    "uptimeYear": "86.07%",
+    "status": "down",
+    "uptime": "86.24%",
+    "uptimeDay": "84.96%",
+    "uptimeWeek": "82.46%",
+    "uptimeMonth": "86.24%",
+    "uptimeYear": "86.24%",
     "time": 3278,
-    "timeDay": 3047,
-    "timeWeek": 3110,
+    "timeDay": 3250,
+    "timeWeek": 3134,
     "timeMonth": 3278,
     "timeYear": 3278,
     "dailyMinutesDown": {
@@ -317,7 +317,7 @@
       "2024-02-19": 292,
       "2024-02-18": 265,
       "2024-02-17": 267,
-      "2024-02-16": 116
+      "2024-02-16": 101
     }
   }
 ]
