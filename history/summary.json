@@ -137,12 +137,12 @@
     "status": "up",
     "uptime": "99.67%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.36%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "98.99%",
     "uptimeYear": "99.58%",
     "time": 2087,
     "timeDay": 1982,
-    "timeWeek": 1768,
+    "timeWeek": 1806,
     "timeMonth": 1567,
     "timeYear": 1747,
     "dailyMinutesDown": {
@@ -187,12 +187,12 @@
     "status": "up",
     "uptime": "98.76%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.30%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "98.76%",
     "uptimeYear": "98.76%",
     "time": 1395,
     "timeDay": 1679,
-    "timeWeek": 1518,
+    "timeWeek": 1515,
     "timeMonth": 1395,
     "timeYear": 1395,
     "dailyMinutesDown": {
@@ -267,19 +267,19 @@
     "url": "https://nawala.app",
     "icon": "https://icons.duckduckgo.com/ip3/nawala.app.ico",
     "slug": "nawala-app",
-    "status": "up",
-    "uptime": "88.06%",
-    "uptimeDay": "83.66%",
-    "uptimeWeek": "82.96%",
-    "uptimeMonth": "88.06%",
-    "uptimeYear": "88.06%",
+    "status": "down",
+    "uptime": "88.26%",
+    "uptimeDay": "83.95%",
+    "uptimeWeek": "83.15%",
+    "uptimeMonth": "88.26%",
+    "uptimeYear": "88.26%",
     "time": 4143,
     "timeDay": 2506,
-    "timeWeek": 3418,
+    "timeWeek": 3447,
     "timeMonth": 4143,
     "timeYear": 4143,
     "dailyMinutesDown": {
-      "2024-02-26": 30,
+      "2024-02-26": 31,
       "2024-02-25": 241,
       "2024-02-24": 216,
       "2024-02-23": 191,
@@ -288,7 +288,7 @@
       "2024-02-20": 210,
       "2024-02-19": 279,
       "2024-02-18": 221,
-      "2024-02-17": 71
+      "2024-02-17": 46
     }
   },
   {
@@ -296,15 +296,15 @@
     "url": "https://blog.goodnewsfromindonesia.id",
     "icon": "https://icons.duckduckgo.com/ip3/blog.goodnewsfromindonesia.id.ico",
     "slug": "blog",
-    "status": "up",
-    "uptime": "87.74%",
-    "uptimeDay": "86.24%",
-    "uptimeWeek": "83.20%",
-    "uptimeMonth": "87.74%",
-    "uptimeYear": "87.74%",
+    "status": "down",
+    "uptime": "87.98%",
+    "uptimeDay": "86.53%",
+    "uptimeWeek": "83.39%",
+    "uptimeMonth": "87.98%",
+    "uptimeYear": "87.98%",
     "time": 3191,
     "timeDay": 2314,
-    "timeWeek": 2465,
+    "timeWeek": 2483,
     "timeMonth": 3191,
     "timeYear": 3191,
     "dailyMinutesDown": {
@@ -317,7 +317,7 @@
       "2024-02-20": 250,
       "2024-02-19": 292,
       "2024-02-18": 265,
-      "2024-02-17": 104
+      "2024-02-17": 73
     }
   }
 ]
