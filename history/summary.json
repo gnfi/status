@@ -4,18 +4,19 @@
     "url": "https://www.goodnewsfromindonesia.id",
     "icon": "https://icons.duckduckgo.com/ip3/www.goodnewsfromindonesia.id.ico",
     "slug": "good-news-from-indonesia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.25%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "95.40%",
     "uptimeMonth": "97.59%",
     "uptimeYear": "99.76%",
-    "time": 2732,
+    "time": 2735,
     "timeDay": 2181,
-    "timeWeek": 9993,
-    "timeMonth": 9252,
+    "timeWeek": 10172,
+    "timeMonth": 9312,
     "timeYear": 3470,
     "dailyMinutesDown": {
+      "2024-08-19": 0,
       "2024-08-17": 19,
       "2024-08-16": 14,
       "2024-08-15": 54,
@@ -61,7 +62,7 @@
     "time": 833,
     "timeDay": 525,
     "timeWeek": 769,
-    "timeMonth": 704,
+    "timeMonth": 702,
     "timeYear": 707,
     "dailyMinutesDown": {
       "2024-08-08": 446,
@@ -85,7 +86,7 @@
     "time": 3432,
     "timeDay": 2027,
     "timeWeek": 5137,
-    "timeMonth": 3748,
+    "timeMonth": 3779,
     "timeYear": 3527,
     "dailyMinutesDown": {
       "2024-08-15": 5,
@@ -151,7 +152,7 @@
     "time": 1780,
     "timeDay": 2010,
     "timeWeek": 1857,
-    "timeMonth": 1919,
+    "timeMonth": 1862,
     "timeYear": 1685,
     "dailyMinutesDown": {
       "2024-08-05": 8,
@@ -193,7 +194,7 @@
     "time": 1605,
     "timeDay": 1595,
     "timeWeek": 1540,
-    "timeMonth": 1623,
+    "timeMonth": 1626,
     "timeYear": 1605,
     "dailyMinutesDown": {
       "2024-08-05": 7,
@@ -257,7 +258,7 @@
     "time": 700,
     "timeDay": 732,
     "timeWeek": 749,
-    "timeMonth": 784,
+    "timeMonth": 782,
     "timeYear": 762,
     "dailyMinutesDown": {
       "2023-09-22": 4
@@ -277,7 +278,7 @@
     "time": 1258,
     "timeDay": 1244,
     "timeWeek": 1229,
-    "timeMonth": 1288,
+    "timeMonth": 1292,
     "timeYear": 1263,
     "dailyMinutesDown": {
       "2024-07-07": 11,
@@ -300,7 +301,7 @@
     "time": 2288,
     "timeDay": 368,
     "timeWeek": 488,
-    "timeMonth": 568,
+    "timeMonth": 575,
     "timeYear": 2288,
     "dailyMinutesDown": {
       "2024-08-15": 4,
@@ -329,7 +330,7 @@
     "time": 2023,
     "timeDay": 1075,
     "timeWeek": 1003,
-    "timeMonth": 1007,
+    "timeMonth": 1010,
     "timeYear": 2023,
     "dailyMinutesDown": {
       "2024-02-27": 163,
