@@ -83,8 +83,8 @@
     "status": "down",
     "uptime": "94.38%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "32.81%",
-    "uptimeMonth": "84.52%",
+    "uptimeWeek": "32.75%",
+    "uptimeMonth": "84.50%",
     "uptimeYear": "92.60%",
     "time": 3424,
     "timeDay": 0,
@@ -92,7 +92,7 @@
     "timeMonth": 3847,
     "timeYear": 3534,
     "dailyMinutesDown": {
-      "2024-08-25": 814,
+      "2024-08-25": 821,
       "2024-08-24": 1440,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
@@ -301,12 +301,12 @@
     "url": "https://nawala.app",
     "icon": "https://icons.duckduckgo.com/ip3/nawala.app.ico",
     "slug": "nawala-app",
-    "status": "up",
-    "uptime": "99.42%",
-    "uptimeDay": "78.43%",
+    "status": "down",
+    "uptime": "99.43%",
+    "uptimeDay": "78.41%",
     "uptimeWeek": "92.51%",
     "uptimeMonth": "98.27%",
-    "uptimeYear": "99.42%",
+    "uptimeYear": "99.43%",
     "time": 2501,
     "timeDay": 2577,
     "timeWeek": 3752,
@@ -323,7 +323,7 @@
       "2024-02-26": 202,
       "2024-02-25": 241,
       "2024-02-24": 216,
-      "2024-02-23": 61
+      "2024-02-23": 46
     }
   },
   {
