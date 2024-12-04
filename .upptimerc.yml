@@ -15,7 +15,7 @@ sites:
   - name: GoodStats
     url: https://goodstats.id
   - name: GoodStats Dashboard
-    urlT: https://dash.goodstats.id
+    url: https://dash.goodstats.id
   - name: GoodStats Data
     url: https://data.goodstats.id
   - name: Career
