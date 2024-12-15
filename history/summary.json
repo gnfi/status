@@ -4,18 +4,19 @@
     "url": "https://www.goodnewsfromindonesia.id",
     "icon": "https://icons.duckduckgo.com/ip3/www.goodnewsfromindonesia.id.ico",
     "slug": "good-news-from-indonesia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.76%",
     "uptimeMonth": "93.54%",
     "uptimeYear": "99.15%",
-    "time": 3722,
+    "time": 3726,
     "timeDay": 1208,
     "timeWeek": 2493,
     "timeMonth": 4464,
     "timeYear": 4157,
     "dailyMinutesDown": {
+      "2024-12-15": 1,
       "2024-12-10": 23,
       "2024-12-05": 62,
       "2024-12-04": 309,
@@ -59,7 +60,7 @@
       "2024-08-16": 14,
       "2024-08-15": 54,
       "2024-08-14": 24,
-      "2024-08-13": 32
+      "2024-08-13": 22
     }
   },
   {
@@ -227,18 +228,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dash.goodstats.id.ico",
     "slug": "good-stats-dashboard",
     "status": "up",
-    "uptime": "98.48%",
-    "uptimeDay": "84.31%",
-    "uptimeWeek": "97.76%",
-    "uptimeMonth": "98.48%",
-    "uptimeYear": "98.48%",
+    "uptime": "98.50%",
+    "uptimeDay": "84.55%",
+    "uptimeWeek": "97.79%",
+    "uptimeMonth": "98.50%",
+    "uptimeYear": "98.50%",
     "time": 5876,
     "timeDay": 18933,
     "timeWeek": 8239,
     "timeMonth": 5876,
     "timeYear": 5876,
     "dailyMinutesDown": {
-      "2024-12-15": 226
+      "2024-12-15": 223
     }
   },
   {
