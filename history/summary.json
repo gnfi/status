@@ -226,19 +226,19 @@
     "url": "https://dash.goodstats.id",
     "icon": "https://icons.duckduckgo.com/ip3/dash.goodstats.id.ico",
     "slug": "good-stats-dashboard",
-    "status": "down",
-    "uptime": "98.50%",
-    "uptimeDay": "84.51%",
-    "uptimeWeek": "97.79%",
-    "uptimeMonth": "98.50%",
-    "uptimeYear": "98.50%",
-    "time": 4897,
-    "timeDay": 18714,
-    "timeWeek": 6977,
-    "timeMonth": 4897,
-    "timeYear": 4897,
+    "status": "up",
+    "uptime": "98.48%",
+    "uptimeDay": "84.31%",
+    "uptimeWeek": "97.76%",
+    "uptimeMonth": "98.48%",
+    "uptimeYear": "98.48%",
+    "time": 5876,
+    "timeDay": 18933,
+    "timeWeek": 8239,
+    "timeMonth": 5876,
+    "timeYear": 5876,
     "dailyMinutesDown": {
-      "2024-12-15": 224
+      "2024-12-15": 226
     }
   },
   {
