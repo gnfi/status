@@ -178,17 +178,17 @@
     "slug": "good-stats",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "85.35%",
-    "uptimeWeek": "97.91%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "98.74%",
+    "uptimeDay": "85.65%",
+    "uptimeWeek": "97.95%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "98.75%",
     "time": 1765,
     "timeDay": 12552,
     "timeWeek": 5097,
     "timeMonth": 2438,
     "timeYear": 1881,
     "dailyMinutesDown": {
-      "2024-12-15": 211,
+      "2024-12-15": 207,
       "2024-11-12": 433,
       "2024-11-11": 1440,
       "2024-11-10": 1101,
@@ -226,10 +226,10 @@
     "url": "https://dash.goodstats.id",
     "icon": "https://icons.duckduckgo.com/ip3/dash.goodstats.id.ico",
     "slug": "good-stats-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "98.49%",
-    "uptimeDay": "84.55%",
-    "uptimeWeek": "97.79%",
+    "uptimeDay": "84.45%",
+    "uptimeWeek": "97.78%",
     "uptimeMonth": "98.49%",
     "uptimeYear": "98.49%",
     "time": 3099,
@@ -238,7 +238,7 @@
     "timeMonth": 3099,
     "timeYear": 3099,
     "dailyMinutesDown": {
-      "2024-12-15": 223
+      "2024-12-15": 224
     }
   },
   {
