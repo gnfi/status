@@ -4,18 +4,19 @@
     "url": "https://www.goodnewsfromindonesia.id",
     "icon": "https://icons.duckduckgo.com/ip3/www.goodnewsfromindonesia.id.ico",
     "slug": "good-news-from-indonesia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.83%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.14%",
-    "time": 3737,
+    "time": 3741,
     "timeDay": 860,
     "timeWeek": 2750,
     "timeMonth": 1831,
     "timeYear": 4146,
     "dailyMinutesDown": {
+      "2025-01-18": 0,
       "2025-01-16": 19,
       "2024-12-31": 57,
       "2024-12-15": 21,
@@ -60,8 +61,7 @@
       "2024-08-19": 7,
       "2024-08-17": 19,
       "2024-08-16": 14,
-      "2024-08-15": 54,
-      "2024-08-14": 18
+      "2024-08-15": 54
     }
   },
   {
