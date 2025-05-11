@@ -111,11 +111,11 @@
     "url": "https://www.rekamindonesia.id",
     "icon": "https://icons.duckduckgo.com/ip3/www.rekamindonesia.id.ico",
     "slug": "rekam-indonesia",
-    "status": "up",
+    "status": "down",
     "uptime": "94.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "95.44%",
     "time": 2822,
     "timeDay": 2796,
@@ -123,6 +123,7 @@
     "timeMonth": 2797,
     "timeYear": 2719,
     "dailyMinutesDown": {
+      "2025-05-11": 2,
       "2025-04-30": 93,
       "2025-04-11": 40,
       "2025-03-31": 18,
@@ -350,9 +351,9 @@
     "url": "https://nawala.app",
     "icon": "https://icons.duckduckgo.com/ip3/nawala.app.ico",
     "slug": "nawala-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.68%",
@@ -362,6 +363,7 @@
     "timeMonth": 567,
     "timeYear": 1097,
     "dailyMinutesDown": {
+      "2025-05-11": 0,
       "2025-04-11": 21,
       "2025-03-31": 16,
       "2025-03-21": 17,
@@ -386,7 +388,7 @@
       "2024-08-25": 179,
       "2024-08-24": 193,
       "2024-08-23": 160,
-      "2024-08-22": 71
+      "2024-08-22": 56
     }
   },
   {
