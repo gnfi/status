@@ -69,19 +69,19 @@
     "url": "https://dash.goodnewsfromindonesia.id",
     "icon": "https://icons.duckduckgo.com/ip3/dash.goodnewsfromindonesia.id.ico",
     "slug": "good-news-from-indonesia-dashboard",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1133,
-    "timeDay": 546,
-    "timeWeek": 880,
-    "timeMonth": 972,
-    "timeYear": 1133,
+    "time": 1131,
+    "timeDay": 606,
+    "timeWeek": 863,
+    "timeMonth": 964,
+    "timeYear": 1131,
     "dailyMinutesDown": {
-      "2025-05-18": 0
+      "2025-05-18": 7
     }
   },
   {
