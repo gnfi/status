@@ -4,18 +4,19 @@
     "url": "https://www.goodnewsfromindonesia.id",
     "icon": "https://icons.duckduckgo.com/ip3/www.goodnewsfromindonesia.id.ico",
     "slug": "good-news-from-indonesia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.14%",
-    "time": 3683,
+    "time": 3686,
     "timeDay": 896,
     "timeWeek": 3351,
     "timeMonth": 1976,
     "timeYear": 3940,
     "dailyMinutesDown": {
+      "2025-05-31": 2,
       "2025-02-14": 18,
       "2025-01-16": 19,
       "2024-12-31": 57,
@@ -61,7 +62,7 @@
       "2024-08-19": 7,
       "2024-08-17": 19,
       "2024-08-16": 14,
-      "2024-08-15": 54
+      "2024-08-15": 34
     }
   },
   {
@@ -69,9 +70,9 @@
     "url": "https://dash.goodnewsfromindonesia.id",
     "icon": "https://icons.duckduckgo.com/ip3/dash.goodnewsfromindonesia.id.ico",
     "slug": "good-news-from-indonesia-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -80,7 +81,9 @@
     "timeWeek": 934,
     "timeMonth": 911,
     "timeYear": 1111,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-31": 0
+    }
   },
   {
     "name": "Seasia",
@@ -112,15 +115,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.rekamindonesia.id.ico",
     "slug": "rekam-indonesia",
     "status": "up",
-    "uptime": "95.03%",
+    "uptime": "95.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "96.06%",
     "time": 2781,
     "timeDay": 2188,
     "timeWeek": 2116,
-    "timeMonth": 2087,
+    "timeMonth": 2101,
     "timeYear": 2646,
     "dailyMinutesDown": {
       "2025-04-30": 93,
