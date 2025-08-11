@@ -6,16 +6,17 @@
     "slug": "good-news-from-indonesia",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.14%",
-    "time": 3532,
+    "time": 3531,
     "timeDay": 832,
     "timeWeek": 801,
     "timeMonth": 927,
-    "timeYear": 3161,
+    "timeYear": 3133,
     "dailyMinutesDown": {
+      "2025-08-11": 3,
       "2025-05-31": 17,
       "2025-02-14": 18,
       "2025-01-16": 19,
@@ -62,7 +63,7 @@
       "2024-08-19": 7,
       "2024-08-17": 19,
       "2024-08-16": 14,
-      "2024-08-15": 34
+      "2024-08-15": 22
     }
   },
   {
@@ -121,7 +122,7 @@
     "timeDay": 1903,
     "timeWeek": 2134,
     "timeMonth": 2648,
-    "timeYear": 2465,
+    "timeYear": 2463,
     "dailyMinutesDown": {
       "2025-07-19": 28,
       "2025-04-30": 93,
@@ -220,7 +221,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/data.goodstats.id.ico",
     "slug": "good-stats-data",
     "status": "up",
-    "uptime": "99.16%",
+    "uptime": "99.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -271,18 +272,20 @@
     "url": "https://partner.goodnews.id/media",
     "icon": "https://icons.duckduckgo.com/ip3/partner.goodnews.id.ico",
     "slug": "media-partner",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 853,
+    "time": 854,
     "timeDay": 719,
     "timeWeek": 895,
     "timeMonth": 951,
     "timeYear": 876,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-11": 2
+    }
   },
   {
     "name": "Sertifikat Download",
@@ -309,18 +312,19 @@
     "url": "https://nawala.app",
     "icon": "https://icons.duckduckgo.com/ip3/nawala.app.ico",
     "slug": "nawala-app",
-    "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
-    "time": 938,
+    "time": 939,
     "timeDay": 325,
     "timeWeek": 458,
     "timeMonth": 438,
     "timeYear": 1075,
     "dailyMinutesDown": {
+      "2025-08-11": 1,
       "2025-04-11": 21,
       "2025-03-31": 16,
       "2025-03-21": 17,
@@ -345,7 +349,7 @@
       "2024-08-25": 179,
       "2024-08-24": 193,
       "2024-08-23": 160,
-      "2024-08-22": 71
+      "2024-08-22": 56
     }
   },
   {
