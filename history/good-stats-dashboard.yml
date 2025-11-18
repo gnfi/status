@@ -1,7 +1,7 @@
 url: https://dash.goodstats.id
-status: up
-code: 200
-responseTime: 1262
-lastUpdated: 2025-11-18T14:46:44.579Z
+status: down
+code: 500
+responseTime: 1233
+lastUpdated: 2025-11-18T15:37:42.229Z
 startTime: 2024-12-04T22:38:47.263Z
 generator: Upptime <https://github.com/upptime/upptime>
