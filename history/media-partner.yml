@@ -1,7 +1,7 @@
 url: https://partner.goodnews.id/media
-status: up
-code: 200
-responseTime: 8189
-lastUpdated: 2025-11-17T23:09:11.254Z
+status: down
+code: 500
+responseTime: 120
+lastUpdated: 2025-11-18T11:35:59.442Z
 startTime: 2021-12-17T05:50:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
