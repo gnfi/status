@@ -190,16 +190,16 @@
     "url": "https://dash.goodstats.id",
     "icon": "https://icons.duckduckgo.com/ip3/dash.goodstats.id.ico",
     "slug": "good-stats-dashboard",
-    "status": "down",
+    "status": "up",
     "uptime": "94.46%",
-    "uptimeDay": "97.64%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "97.19%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "90.65%",
-    "time": 1501,
-    "timeDay": 18818,
-    "timeWeek": 8683,
-    "timeMonth": 5054,
+    "time": 1502,
+    "timeDay": 15330,
+    "timeWeek": 8019,
+    "timeMonth": 4954,
     "timeYear": 1506,
     "dailyMinutesDown": {
       "2025-11-11": 714,
@@ -242,7 +242,7 @@
       "2026-02-03": 3,
       "2026-04-20": 66,
       "2026-07-27": 102,
-      "2026-08-17": 34
+      "2026-08-17": 40
     }
   },
   {
@@ -305,17 +305,17 @@
     "url": "https://career.goodnews.id",
     "icon": "https://icons.duckduckgo.com/ip3/career.goodnews.id.ico",
     "slug": "career",
-    "status": "down",
+    "status": "up",
     "uptime": "99.07%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "96.56%",
-    "time": 1340,
-    "timeDay": 10294,
-    "timeWeek": 3475,
-    "timeMonth": 1643,
-    "timeYear": 1456,
+    "time": 1339,
+    "timeDay": 7149,
+    "timeWeek": 3184,
+    "timeMonth": 1619,
+    "timeYear": 1454,
     "dailyMinutesDown": {
       "2025-09-10": 18,
       "2025-09-12": 18,
@@ -340,7 +340,7 @@
       "2026-01-30": 1440,
       "2026-01-29": 1357,
       "2026-04-25": 79,
-      "2026-08-17": 3
+      "2026-08-17": 9
     }
   },
   {
@@ -368,7 +368,7 @@
       "2025-10-10": 1440,
       "2025-10-09": 533,
       "2025-11-18": 134,
-      "2026-08-17": 848,
+      "2026-08-17": 856,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
